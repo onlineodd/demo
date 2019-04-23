@@ -37,7 +37,7 @@ public class StudentController {
 				studentAdd.setStuHeight(Double.parseDouble(params[5]));
 				boolean iosk=studentService.save(studentAdd);
 				if(iosk){
-					System.out.println("添加成功！");
+					System.out.println("添加成功！AAA");
 					logger.info("新增学生成功"+studentAdd);
 				}else{
 					System.out.println("添加失败！");
