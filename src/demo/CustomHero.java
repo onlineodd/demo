@@ -43,7 +43,7 @@ public CustomHero(int heroexp) //含有一个参数的构造函数
 		CustomHero  n = new CustomHero ();
 		CustomHero  n1 = new CustomHero (820000);
 		CustomHero  n2 = new CustomHero (472420);
-		CustomHero  n3 = new CustomHero (120);
+		CustomHero  n3 = new CustomHero (500);
 		CustomHero  n4 = new CustomHero (49219);
 		CustomHero  n5 = new CustomHero (814410);
 		
